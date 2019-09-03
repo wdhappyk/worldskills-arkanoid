@@ -424,7 +424,7 @@ class Play extends Stage {
 				animate: false,
 				params: {
 					steps: 280,
-					speed: [1, 1]
+					speed: [1, 0]
 				}
 			},
 			'<': {
